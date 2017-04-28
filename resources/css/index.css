@@ -1,0 +1,199 @@
+h1, h2, h3, h4, p, nav {
+  position: relative;
+  left: 25px;
+}
+p {
+  color: black;
+  font-size: 25px;
+  font-family: Georgia;
+  position: relative;
+}
+#main-logo {
+  width: 20%;
+  height: auto;
+  border-radius: 50%;
+  position: relative;
+  left: 200px;
+}
+.Header {
+  background-image: url("https://www.ccsf.edu/content/ccsf/en/student-services/admissions-and-registration/records/evaluation-and-graduation/_jcr_content/subheader-image/smallimage2.img.jpg/1370738959078.jpg");
+  height: 425px;
+  background-size: contain;
+}
+.main-words {
+  font-size: 55px;
+  position: relative;
+  top: -420px;
+  left: 700px;
+  text-shadow: 3px 3px 5px #ffd966;
+}
+#second-level {
+  position: relative;
+  left: 145px;
+  top:-80px;
+}
+.Login-info {
+  text-align: right;
+}
+.dividers {
+  background-color: Cornflowerblue;
+  background-blend-mode: lighten;
+}
+nav {
+  font-size: 25px;
+  position: relative;
+  top: 15px;
+  left: 200px;
+
+}
+#studying {
+position: relative;
+left: 950px;
+height: 10%;
+width: auto;
+bottom: 150px;
+}
+#paragraph-pay {
+  position: relative;
+  left: 200px;
+}
+.titles {
+  text-shadow: 3px 3px 5px gray;
+  font-size: 40px;
+  position: relative;
+  left: 200px;
+}
+#How-It-Works {
+  background-color: #f2f9ff;
+  background-size:
+}
+#Colleges {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/selga.png");
+}
+#Catalog-of-Courses {
+  background-color: #f2f9ff;
+}
+#civ {
+  position: relative;
+  top: -5px;
+}
+#view-courses {
+  text-align: right;
+  position: relative;
+  left: 1300px;
+  font-size: 30px;
+  background: white;
+  width: 150px;
+   border: 1px solid black;
+   padding: 10px;
+   border-radius: 10px;
+}
+.courses {
+  position: relative;
+  left: 200px;
+}
+.main-bar {
+  background: white;
+}
+#college-pic {
+  width: 25%;
+  height: auto;
+  position: relative;
+  left: 200px;
+}
+#our-program {
+  text-align: right;
+  position: relative;
+  bottom: 145px;
+  left: -230px
+}
+a {
+  font-family: helvetica;
+  text-decoration: none;
+  color: black;
+}
+.links:hover {
+  background-color: SteelBlue !important;
+  color: gold !important;
+}
+#FAQ {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/selga.png");
+}
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+.paragraphs {
+  position: relative;
+  left: 200px;
+}
+#partner-schools {
+  text-align: left;
+  position: relative;
+  left: 800px;
+  bottom: 200px;
+  font-size: 30px;
+  background: white;
+  width: 280px;
+   border: 1px solid black;
+   padding: 10px;
+   border-radius: 10px;
+}
+#counselor {
+  position: relative;
+  left: 200px;
+  top: -180px;
+}
+.WebContainer{
+    width: 100%;
+    height: auto;
+}
+.articles{
+    width:90%; /*Takes 90% width from WebContainer*/
+    height: auto;
+    margin: auto;
+}
+#contact-info {
+  text-align: right;
+  postion: relative;
+  left: -350px;
+  bottom: 40px;
+  font-size: 30px;
+  color: white;
+}
+footer {
+  background-color: gray;
+}
+#contact-us {
+  text-align: left;
+  position: relative;
+  right: 1180px;
+  background: black;
+  width: 280px;
+   border: 1px solid black;
+   padding: 10px;
+   border-radius: 10px;
+   color: white;
+}
+#enroll {
+  color: white;
+  position: relative;
+  top: 15px;
+}
+.social {
+  position: relative;
+  top: 40px;
+}
+#payment {
+  position: relative;
+  left: 200px;
+  top: -400px;
+}
+html, body, #wrapper {
+    width: 100%;
+    min-height: 100%;
+}
